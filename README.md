@@ -1,5 +1,5 @@
 <h1 align="center">Привет! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 </p>
   Я Катя Муратова </h1>
 
