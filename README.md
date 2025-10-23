@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=350&username=katemuratova)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true_width=250&username=katemuratova)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=rose&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=katemuratova&theme=rose&show_icons=true)
 
 ## Тестирование API и интеграций
 <div>
