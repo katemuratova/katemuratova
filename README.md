@@ -2,12 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=D34FB6&background=F5EFFFF8&center=true&vCenter=true&width=500&height=70&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D1%82%D1%8F+%D0%9C%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%2C+QA+Ingener.;%D0%91%D1%83%D0%B4%D0%B5%D0%BC+%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a>
 </p> 
 
-## 📊 Статистика
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=350&username=katemuratova)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true_width=250&username=katemuratova)
-
-![](https://github-readme-stats.vercel.app/api?username=katemuratova&theme=rose&show_icons=true)
-
 ## Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
@@ -62,14 +56,16 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
+
+## 🪴 Практика и стажировка
 ---
 
 ## 📫 Контакты
 - Telegram: [@muratova_katya](https://t.me/muratova_katya)  
 - GitHub: [Kate Muratova](https://github.com/katemuratova)
 
----
+## 📊 Статистика
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EkaterinaMur&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=dracula&username=katemuratova)
+
+<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
