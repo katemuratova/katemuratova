@@ -64,7 +64,7 @@
 
 ## 📫 Контакты
 - Telegram: [@muratova_katya](https://t.me/muratova_katya)  
-- GitHub: [EkaterinaMur]([https://github.com/EkaterinaMur](https://github.com/katemuratova))  
+- GitHub: [Kate Muratova](https://github.com/katemuratova)
 
 ---
 
