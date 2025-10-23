@@ -1,8 +1,5 @@
-<h1 align="center">
-  Привет! 
-  <align="center">
-  Я - Катя Муратова <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU1am8yYnRmNDh3d2cwbWJkeHh1N2hvanp2dzU5bm82OGUybW9uciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZtR99pyrMw8juihKTJ/giphy.gif" width="100"/>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=D34FB6&background=F5EFFFF8&center=true&vCenter=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D1%82%D1%8F+%D0%9C%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%2C+QA+Ingener.;%D0%91%D1%83%D0%B4%D0%B5%D0%BC+%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <p align="center">
   <em>QA-инженер | Python-разработчик | Тестирование ПО и автоматизация 🧪</em>
