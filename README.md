@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU1am8yYnRmNDh3d2cwbWJkeHh1N2hvanp2dzU5bm82OGUybW9uciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZtR99pyrMw8juihKTJ/giphy.gif" width="100"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F70089&center=true&vCenter=true&width=500&lines=Привет!;Я+Катя+Муратова;QA+Инженер+и+Python-разработчик" alt="Typing SVG">
-</p>
-
+<h1 align="center">
+  Привет! 
+  <align="center">
+  Я - Катя Муратова <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU1am8yYnRmNDh3d2cwbWJkeHh1N2hvanp2dzU5bm82OGUybW9uciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZtR99pyrMw8juihKTJ/giphy.gif" width="100"/>
+</h1>
 
 <p align="center">
   <em>QA-инженер | Python-разработчик | Тестирование ПО и автоматизация 🧪</em>
