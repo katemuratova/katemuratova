@@ -1,7 +1,9 @@
-<h1 align="center">Привет! Я Екатерина Муратова </h1>
-<p align="right">
+<h1 align="center">Привет! 
+  <p align="right">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </p>
+  Я Катя Муратова </h1>
+
 
 <p align="center">
   <em>QA-инженер | Python-разработчик | Тестирование ПО и автоматизация 🧪</em>
