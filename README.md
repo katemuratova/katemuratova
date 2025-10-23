@@ -1,6 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=D34FB6&background=F5EFFFF8&center=true&vCenter=true&width=500&height=70&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D1%82%D1%8F+%D0%9C%D1%83%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%2C+QA+Ingener.;%D0%91%D1%83%D0%B4%D0%B5%D0%BC+%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a>
-</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&color=290574&background=FFFFFF4C&center=true&vCenter=true&multiline=true&width=500&height=70&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%9A%D0%B0%D1%82%D1%8F+-+QA+Ingineer;%D0%91%D1%83%D0%B4%D0%B5%D0%BC+%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B!" alt="Typing SVG" /></a>
 
 ## Тестирование API и интеграций
 <div>
@@ -58,11 +57,14 @@
 </div>
 
 ## 🪴 Практика и стажировка
+[<img src="/2025-10-23_16-03-27.png" width="280px" hspace="10px" alt="Сертификат об окончании курса по Python»">](https://raw.githubusercontent.com/katemuratova/katemuratova/refs/heads/main/2025-10-23_16-03-27.png)
+[<img src="/2025-10-23_16-04-43.png" width="280px" hspace="10px" alt="Сертификат об окончании курса Программирование на Python»">](https://raw.githubusercontent.com/katemuratova/katemuratova/refs/heads/main/2025-10-23_16-04-43.png)
 ---
 
 ## 📫 Контакты
-- Telegram: [@muratova_katya](https://t.me/muratova_katya)  
-- GitHub: [Kate Muratova](https://github.com/katemuratova)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ekaterinamuratova98@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/muratova_katya)
+[![GitHub](https://img.shields.io/badge/GitHub-3b599?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/katemuratova)
 
 ## 📊 Статистика
 
