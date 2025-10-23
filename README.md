@@ -12,26 +12,12 @@
 
 ---
 
-## 🌱 О себе
-- QA-инженер с опытом ручного и автоматизированного тестирования 🧪  
-- Python, Selenium, PyTest 🐍  
-- Базы данных, REST API, Jira  
-- Опыт командной работы и взаимодействия с разработчиками 👥  
 
----
 
-## 💻 Навыки и инструменты
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img alt="PyTest" src="https://img.shields.io/badge/PyTest-2C2D72?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
+## Тестирование API и интеграций
+| Postman | SOAP API | Kafka | REST | Swagger | Docker | 
+|----------|----------|----------|----------|----------|----------|
+| <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg'> | <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png">| <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png">| <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original-wordmark.svg'> | <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'> | <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"> | <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
 
 ## 🔭 Сейчас изучаю
 - Автоматизацию тестирования с Python и Selenium  
