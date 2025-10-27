@@ -127,7 +127,6 @@
 [<img src="/2025-10-23_16-04-43.png" width="280px" hspace="10px" alt="Сертификат об окончании курса Программирование на Python»">](https://raw.githubusercontent.com/katemuratova/katemuratova/refs/heads/main/2025-10-23_16-04-43.png)
 
 ## 📫 Контакты
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ekaterinamuratova98@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/muratova_katya)
 [![GitHub](https://img.shields.io/badge/GitHub-3b599?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/katemuratova)
 
